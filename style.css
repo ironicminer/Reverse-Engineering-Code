@@ -1,0 +1,11 @@
+body {
+  background-color: aquamarine;
+}
+.container {
+  display: flex;
+}
+.card {
+  padding-top: 50px;
+  border: black 3px;
+  padding-left: 200px;
+}
